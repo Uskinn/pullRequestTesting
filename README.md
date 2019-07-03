@@ -10,3 +10,6 @@ console( hi, guys !!!)
 
 Hello
 
+function smash (words) {
+    return words.join(' ');
+};
